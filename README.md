@@ -1,3 +1,4 @@
 # WEB503
-WEB503 Repository
-# hello <(^_^)>
+# Important Notes and Dates
+* Assesement Handout 17th August
+* 
