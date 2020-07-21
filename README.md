@@ -1,4 +1,5 @@
 # WEB503
+
 # Important Notes and Dates
 
 
@@ -14,4 +15,13 @@
 
 * **Assessment 3** Submission due date 16th November.
 
+
+
+# Course Time Budget
+
+
+
+* **Teaching hours over** 		14 Weeks @ 4.5hrs per week. Total 70hours
+* **Self Directed Learning**	 14 Weeks @ 6hrs per week. Total 80hours
 * 
+
