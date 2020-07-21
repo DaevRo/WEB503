@@ -1,4 +1,4 @@
-# WEB503
+# WEB503 Internet Design Principles
 
 # Important Notes and Dates
 
