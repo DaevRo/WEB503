@@ -25,4 +25,4 @@
 * **Self Directed Learning**	 14 Weeks @ 6hrs per week. Total 80hours
 * 
 
-![alt text] (https://github.com/DaevRo/WEB503-David-Rowe/blob/master/parkrada-panyarudeeporn-s-13557788.jpg "snail")
+![test image](https://github.com/DaevRo/WEB503-David-Rowe/blob/master/parkrada-panyarudeeporn-s-13557788.jpg)
