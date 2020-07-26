@@ -30,3 +30,4 @@
 <div class="text-green">
   This text is green?
   </div>
+  ![Git Commit](https://github.com/DaevRo/WEB503-David-Rowe/blob/master/Gitcommit.png)
