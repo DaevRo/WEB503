@@ -27,7 +27,5 @@
 
 ![test image](https://github.com/DaevRo/WEB503-David-Rowe/blob/master/parkrada-panyarudeeporn-s-13557788.jpg)
 
-<div class="text-green">
-  This text is green?
-  </div>
-  ![Git Commit](https://github.com/DaevRo/WEB503-David-Rowe/blob/master/Gitcommit.png)
+![Git Commit](https://github.com/DaevRo/WEB503-David-Rowe/blob/master/Gitcommit.png)
+![Git Commit HTML](https://github.com/DaevRo/WEB503-David-Rowe/blob/master/gitcommit.html)
